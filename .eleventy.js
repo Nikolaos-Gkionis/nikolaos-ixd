@@ -8,7 +8,7 @@ module.exports = function (eleventyConfig) {
 
   // Plugins
   eleventyConfig.addPlugin(require('./index.js'), {
-    brandColour: '#28a',
+    brandColour: '#444777',
     fontFamily: 'system-ui, sans-serif',
     icons: {
       mask: 'https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-mask-icon.svg?raw=true',
@@ -16,7 +16,7 @@ module.exports = function (eleventyConfig) {
       touch: 'https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-apple-touch-icon.png'
     },
     ogImage: '/assets/opengraph-image.png',
-    homeKey: 'Nikolaos Gkionis IxD',
+    homeKey: 'Home',
     parentSite: {
       url: '#',
       name: ''
