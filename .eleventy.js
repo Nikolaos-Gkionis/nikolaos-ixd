@@ -1,9 +1,9 @@
 module.exports = function (eleventyConfig) {
   const url = process.env.GITHUB_ACTIONS
-    ? 'https://x-govuk.github.io/govuk-eleventy-plugin/'
+    ? 'https://github.com/Nikolaos-Gkionis/nikolaos-ixd'
     : '/'
   const pathPrefix = process.env.GITHUB_ACTIONS
-    ? '/govuk-eleventy-plugin/'
+    ? '/nikolaos-ixd/'
     : '/'
 
   // Plugins
@@ -24,8 +24,8 @@ module.exports = function (eleventyConfig) {
     pathPrefix,
     url,
     header: {
-      organisationLogo: 'x-govuk',
-      organisationName: 'IxD',
+      organisationLogo: '',
+      organisationName: '',
       productName: 'Nikolaos Gkionis',
       search: {
         indexPath: '/search.json',
@@ -34,8 +34,8 @@ module.exports = function (eleventyConfig) {
     },
     headingPermalinks: true,
     footer: {
-      copyright: '© X-GOVUK',
-      licence: 'Licensed under the [MIT Licence](https://github.com/x-govuk/govuk-eleventy-plugin/blob/main/LICENSE.txt), except where otherwise stated',
+      copyright: '© IxD',
+      licence: 'Licensed under the [MIT Licence](https://github.com/Nikolaos-Gkionis/nikolaos-ixd/blob/master/LICENSE.txt), except where otherwise stated',
       meta: {
         items: [{
           href: 'https://www.11ty.dev',

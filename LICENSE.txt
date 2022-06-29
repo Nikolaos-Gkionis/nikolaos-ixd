@@ -1,7 +1,8 @@
 The MIT License
 
+Copyright (c) 2022 Nikolaos Gkionis
 Copyright (c) 2022 X-GOVUK
-Copyright (c) 2019 Paul Robert Lloyd
+Copyright (c) 2019 Paul Robert Lloyd (original author)
 Copyright (c) 2014 Crown Copyright (Government Digital Service)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of

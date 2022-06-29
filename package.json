@@ -14,8 +14,8 @@
   },
   "contributors": [
     {
-      "name": "Paul Robert Lloyd",
-      "url": "https://paulrobertlloyd.com"
+      "name": "Nikolaos Gkionis",
+      "url": "https://nikolaos-ixd.netlifyapp.com"
     }
   ],
   "license": "MIT",
@@ -28,7 +28,7 @@
   "sass": "lib/govuk.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/x-govuk/govuk-eleventy-plugin.git"
+    "url": "https://github.com/Nikolaos-Gkionis/nikolaos-ixd.git"
   },
   "scripts": {
     "prebuild": "rimraf public",
