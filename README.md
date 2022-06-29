@@ -1,31 +1,27 @@
-# GOV.UK Eleventy Plugin • [![test](https://github.com/x-govuk/govuk-eleventy-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/x-govuk/govuk-eleventy-plugin/actions/workflows/test.yml)
+### Hi there, I'm Nikolaos - aka [Nikos] 👋
 
-Build documentation websites using Markdown and GOV.UK styles.
+## I'm a Husband, Father of 11, Designerd, and Technologist!!
 
-You’re welcome to use the plugin even if your service isn’t considered part of GOV.UK, but your site or service must not:
+- 🌱 I’m currently learning Ruby on Rails 🤣
+- 🤔 I’m looking to collaborate less with other humans 👽 waiting on the aliens are here announcement
+- 🥅 2022 Goals: Work only 40 hours a week 💣
+- ⚡ Fun fact: I like to play with my children and paint walls 🥸
+- 💻 To blog or not to blog, this is the question. And if I do how can I Be free to write my thoughts without 😱?
 
-* identify itself as being part of GOV.UK
-* use the crown or GOV.UK logotype in the header
-* use the GDS Transport typeface
-* suggest that it’s an official UK government website if it’s not
+### Languages and Tools:
 
-## Requirements
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/adobexd.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/figma.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" />
 
-* [Node.js](https://nodejs.org) v16 or above
-* [Eleventy](https://www.11ty.dev) v1.0.0 or above
+<br/>
+<br/>
 
-## Installation
-
-`npm install govuk-eleventy-plugin --save`
-
-This will install v2.0.0 of the plugin, which is the version that has been documented and more thoroughly tested.
-
-## Usage
-
-```js
-const govukEleventyPlugin = require('govuk-eleventy-plugin')
-
-eleventyConfig.addPlugin(govukEleventyPlugin, {
-  // Options
-})
-```
+---

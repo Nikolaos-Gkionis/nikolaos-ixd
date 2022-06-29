@@ -2,10 +2,10 @@
 homepage: true
 layout: product
 includeInBreadcrumbs: true
-description: Use this plugin for [Eleventy](https://www.11ty.dev) to spend time writing documentation, not building a website for it.
+description: Hey there 👋, I am a senior interaction designer working in government
 image:
-  src: /assets/homepage-illustration.png
-  alt: Eleventy’s possum mascot hanging on a red balloon and floating above a laptop.
+  src: /assets/about0me.png
+  alt: my bricklayer back yard.
 startButton:
   href: /get-started
 eleventyComputed:
@@ -13,6 +13,7 @@ eleventyComputed:
   ogImage:
     alt: "{{ options.homeKey }}"
 ---
+
 <div class="govuk-grid-row">
 {% for item in collections["homepage"] %}
   <section class="govuk-grid-column-one-third-from-desktop govuk-!-margin-bottom-8">
