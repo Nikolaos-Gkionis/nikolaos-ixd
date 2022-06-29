@@ -2,9 +2,8 @@
 homepage: true
 layout: product
 includeInBreadcrumbs: true
-description: Hey there 👋, I am a senior interaction designer working in government
 image:
-  src: /assets/about0me.png
+  src: /assets/about-me.png
   alt: my bricklayer back yard.
 startButton:
   href: /get-started
