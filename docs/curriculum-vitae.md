@@ -14,7 +14,7 @@ I am a passionate and creative UX designer with experience of working with priva
 
 #### Mercator Digital: April 2022 - Present / Senior Interaction Designer (HMRC contract)
 
-Discovering user needs, planning, designing, facilitating workshops and design sprints. Leading teams in co-creating the best solutions meeting to their users needs. Based on research and validated presuppositions. The current project I am involved in deals with Customs applications due to the new EU exit legislation, this is a massive project with a lot complexity and hard deadlines.
+As one of Mercator Digital permanent staff, currently working in a high impact, high priority project for the HMRC, planning, designing and prototyping using the GDS prototype kit. Being part of a large multi-disciplinary team working in Agile methodology. I am also involved in the Mercator digital transformation, a revamp of the separate new identity and web presence for the Digital part of Mercator Group.
 
 #### DfE: January 2017 - April 2022 / Senior Interaction Designer
 

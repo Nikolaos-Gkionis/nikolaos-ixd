@@ -11,9 +11,9 @@ module.exports = function (eleventyConfig) {
     brandColour: '#444777',
     fontFamily: 'system-ui, sans-serif',
     icons: {
-      mask: 'https://raw.githubusercontent.com/x-govuk/logo/main/assets/images/x-govuk-mask-icon.svg?raw=true',
-      shortcut: 'https://raw.githubusercontent.com/x-govuk/logo/main/assets/images/x-govuk-favicon.ico',
-      touch: 'https://raw.githubusercontent.com/x-govuk/logo/main/assets/images/x-govuk-apple-touch-icon.png'
+      mask: 'https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-mask-icon.svg?raw=true',
+      shortcut: 'https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-favicon.ico',
+      touch: 'https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-apple-touch-icon.png'
     },
     ogImage: '/assets/opengraph-image.png',
     homeKey: 'Home',
