@@ -8,6 +8,10 @@ related:
   items:
     - text: Amazon UK link
       href: https://www.amazon.co.uk/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ### Crime and Punishment

@@ -8,6 +8,10 @@ related:
   items:
     - text: Amazon UK link
       href: https://www.amazon.co.uk/Design-Everyday-Things-MIT-Press/dp/0262525674
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ### The design of everday things

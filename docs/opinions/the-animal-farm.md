@@ -3,11 +3,15 @@ layout: post
 date: 2020-11-27
 title: The Animal Farm
 author: George Orwell
-description: An allegory, more relevant today than when originally published. 
+description: An allegory, more relevant today than when originally published.
 related:
   items:
     - text: Amazon UK link
       href: https://www.amazon.co.uk/Animal-Farm-Fairy-Penguin-Essentials/dp/0141036133/ref=sr_1_2_sspa?adgrpid=1175378828899955&hvadid=73461378336134&hvbmt=be&hvdev=c&hvlocphy=132477&hvnetw=s&hvqmt=e&hvtargid=kwd-73461311083646%3Aloc-188&hydadcr=24893_2220805&keywords=an+animal+farm&qid=1645141776&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQkNXV0hJT1dOOUxHJmVuY3J5cHRlZElkPUEwMjExNTUyMUJFTTNPRTg5TDhUQyZlbmNyeXB0ZWRBZElkPUEwMTUwMDQwMkJPRjFYV0UyQkI3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 As my nana told me 'all the pigs have the same face', George Orwell also makes a good argument on his aligory 'The Animal Farm'

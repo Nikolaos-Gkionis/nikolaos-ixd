@@ -15,7 +15,7 @@ opinions:
     data:
       date: 2022-02-20
       title: Change by design
-      description: A set of dashboard variants for the Solution Design and Development team.
+      description: In Change by Design, Tim Brown, CEO of IDEO, the celebrated innovation and design firm, shows how the techniques and strategies of design belong at every level of business.
   - url: "/opinions/crime-and-punishment"
     data:
       date: 2022-01-20

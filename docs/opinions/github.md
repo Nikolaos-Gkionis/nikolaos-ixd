@@ -2,6 +2,10 @@
 layout: post
 date: 2021-12-10
 title: Github
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ## A case against github.com.

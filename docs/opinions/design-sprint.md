@@ -8,6 +8,10 @@ related:
   items:
     - text: Sprint book link
       href: https://www.thesprintbook.com/
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ### Sprint

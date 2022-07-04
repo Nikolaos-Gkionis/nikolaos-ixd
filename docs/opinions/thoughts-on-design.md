@@ -8,6 +8,10 @@ related:
   items:
     - text: Amazon UK link
       href: https://www.amazon.co.uk/Thoughts-Design-Paul-Rand-ebook/dp/B00JVZ42I6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ### Thoughts on design

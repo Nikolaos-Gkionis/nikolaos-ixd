@@ -4,6 +4,10 @@ title: The Buddha
 thing: "Philosophize This! #9"
 thing_url: http://philosophizethis.org/the-buddha/
 date: 2021-12-02
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 [Philosophize This!](http://philosophizethis.org/) is a philosophy podcast.

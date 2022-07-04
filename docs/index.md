@@ -25,6 +25,7 @@ eleventyComputed:
     <hr class="govuk-section-break govuk-section-break--visible govuk-section-break--xl govuk-!-margin-top-0">
     <h2 class="govuk-heading-m govuk-!-font-size-27">Use</h2>
     <p class="govuk-body">The project repository is public and under the MIT license.</p>
+    <p class="govuk-body">The portfolio code was borrowed shamelesly form the <a class="govuk-link govuk-!-font-weight-bold" href="https://x-govuk.github.io/govuk-eleventy-plugin/"> X-GOVUK Eleventy plugin</a></p>
     <p class="govuk-body"><a class="govuk-link govuk-!-font-weight-bold" href="{{ pkg.repository.url | replace(".git", "") }}">View this project on GitHub</a></p>
   </section>
 </div>

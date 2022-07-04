@@ -2,6 +2,10 @@
 layout: post
 date: 2021-11-27
 title: Design Hapiness
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ## By Mark Wilson 10 minute Read

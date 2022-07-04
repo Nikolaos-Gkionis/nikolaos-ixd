@@ -8,6 +8,10 @@ related:
   items:
     - text: Amazon UK link
       href: https://www.amazon.co.uk/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sbs_2/258-8260427-6197514?pd_rd_w=8GuMa&pf_rd_p=c896f142-67ed-468d-b7d2-62dc03d28077&pf_rd_r=FXW2JWF2SFED4Y29DBXM&pd_rd_r=0fac03ed-03a6-4b25-bfd8-4d0e20e83894&pd_rd_wg=6I9io&pd_rd_i=0321965515&psc=1
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ### Don't make me think

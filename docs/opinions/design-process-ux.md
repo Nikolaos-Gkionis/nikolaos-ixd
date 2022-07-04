@@ -2,6 +2,10 @@
 layout: post
 date: 2018-09-09
 title: UX Design Process
+includeInBreadcrumbs: true
+eleventyNavigation:
+  key: Change by design
+  parent: Opinions
 ---
 
 ## The Stages of UX Design Process
