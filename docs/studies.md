@@ -11,6 +11,16 @@ pagination:
   data: studies
   size: 10
 studies:
+  - url: "/studies/macro-interactions"
+    data:
+      date: 2022-05-20
+      title: Macro interactions
+      description: A series of different approaches to a single user problem
+  - url: "/studies/pre-task-list"
+    data:
+      date: 2022-05-20
+      title: Pre task list
+      description: A series of prototype screenshots, including summary page text decoration variants
   - url: "/studies/variants"
     data:
       date: 2022-02-20
