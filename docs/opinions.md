@@ -3,7 +3,7 @@ layout: collection
 order: 2
 includeInBreadcrumbs: true
 title: Opinions
-description: A collection of book reviews, articles I've read and opinion blogs I have written.
+description: A collection of books that I have read, articles I have liked and opinion blogs I have written. This collection is not exhaustive.
 eleventyNavigation:
   key: Opinions
 paginationHeading:

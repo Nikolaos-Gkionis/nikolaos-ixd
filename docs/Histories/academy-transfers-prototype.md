@@ -6,7 +6,7 @@ description: A 4 week cycle to build a vertical slice of small part of the servi
 date: 2021-12-05
 eleventyNavigation:
   key: Academy transfers prototype
-  parent: Studies
+  parent: Histories
 ---
 
 ## Case study

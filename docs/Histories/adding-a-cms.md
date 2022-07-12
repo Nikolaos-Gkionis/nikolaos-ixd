@@ -6,7 +6,7 @@ description: Adding a CMS on the 'design histories' 11ty app.
 date: 2022-01-20
 eleventyNavigation:
   key: Addign a CMS
-  parent: Studies
+  parent: Histories
 ---
 
 ## Case study

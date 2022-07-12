@@ -4,7 +4,7 @@ date: 1976-01-10
 order: 3
 title: My story
 includeInBreadcrumbs: true
-description: Instead of a CV, here is my actual story. A partial description of what got me to where I am today.
+description: This is rather the opposite of a CV, here is my actual story. A small but with key inshights description of what got me to where I am today.
 tags:
   - homepage
 ---

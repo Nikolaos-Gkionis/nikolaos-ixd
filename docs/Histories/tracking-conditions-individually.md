@@ -6,7 +6,7 @@ description: Let providers track and update the status of offer conditions indiv
 date: 2020-03-05
 eleventyNavigation:
   key: Tracking conditions individually
-  parent: Studies
+  parent: Histories
 ---
 
 ## Hypothesis

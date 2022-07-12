@@ -6,7 +6,7 @@ description: A creation of a Figma library to quickly iterate ideas with little 
 date: 2022-01-10
 eleventyNavigation:
   key: SDD Figma adoption
-  parent: Studies
+  parent: Histories
 ---
 
 ## Case study

@@ -1,52 +1,52 @@
 ---
 layout: collection
 order: 1
-title: Case studies
+title: Design histories
 includeInBreadcrumbs: true
-description: Several design case studies that I have been a contributor or completely implemented.
+description: Several design histories that I have been a contributor or completely implemented. Design histories are smaller than case Histories that provide a snapshot on a smaller part of a full service.
 eleventyNavigation:
-  key: Studies
-paginationHeading: Case Studies
+  key: Histories
+paginationHeading: Design Histories
 pagination:
-  data: studies
+  data: Histories
   size: 10
-studies:
-  - url: "/studies/macro-interactions"
+Histories:
+  - url: "/Histories/macro-interactions"
     data:
       date: 2022-05-20
       title: Macro interactions
       description: A series of different approaches to a single user problem
-  - url: "/studies/pre-task-list"
+  - url: "/Histories/pre-task-list"
     data:
       date: 2022-05-20
       title: Pre task list
       description: A series of prototype screenshots, including summary page text decoration variants
-  - url: "/studies/variants"
+  - url: "/Histories/variants"
     data:
       date: 2022-02-20
       title: Dashboard variants
       description: A set of dashboard variants for the Solution Design and Development team.
-  - url: "/studies/using-figma"
+  - url: "/Histories/using-figma"
     data:
       date: 2022-01-20
       title: Using Figma
       description: A creation of a Figma library to quickly iterate ideas with little time cost.
-  - url: "/studies/adding-a-cms"
+  - url: "/Histories/adding-a-cms"
     data:
       date: 2022-01-10
       title: Adding a CMS
       description: Adding a CMS on the 'design histories' 11ty app.
-  - url: "/studies/academy-transfers-prototype"
+  - url: "/Histories/academy-transfers-prototype"
     data:
       date: 2021-12-05
       title: Academy transfers prototype
       description: A 4 week cycle to build a vertical slice of small part of the service.
-  - url: "/studies/tracking-conditions-individually"
+  - url: "/Histories/tracking-conditions-individually"
     data:
       date: 2021-08-17
       title: Tracking conditions individually
       description: Let providers track and update the status of offer conditions individually.
-  - url: "/studies/removing-2-filters"
+  - url: "/Histories/removing-2-filters"
     data:
       date: 2021-06-03
       title: Removing 2 filters
@@ -55,7 +55,7 @@ tags:
   - homepage
 ---
 
-{% for page in collections["studies"] %}
+{% for page in collections["Histories"] %}
 
 - [{{ page.data.title }}]({{ page.url | url }}) – {{ page.data.description }}
 

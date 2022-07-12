@@ -6,7 +6,7 @@ description: Why we removed subject and location as filters
 date: 2021-08-23
 eleventyNavigation:
   key: Removing 2 filters
-  parent: Studies
+  parent: Histories
 ---
 
 We have recently added 2 new filtering options to Find, for degree requirements.

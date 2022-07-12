@@ -6,7 +6,7 @@ description: A series of different approaches to a single user problem
 date: 2022-05-20
 eleventyNavigation:
   key: Macro interactions
-  parent: Studies
+  parent: Histories
 aside:
   title: NCTS P5 prototype
   content: |
@@ -41,7 +41,7 @@ Focusing on a 'macro' interaction, allowed the team to provide the appropriate s
 ![A text input](/assets/pre-task-list/cya-warning.png "The second iteration")
 <br>
 
-- The finalk iteration has the experimental 'Notification banner' in the standard blue version
+- The final iteration has the experimental 'Notification banner' in the standard blue version
 
 ![An error message](/assets/pre-task-list/cya-important.png "The last iteration")
 <br>

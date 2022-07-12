@@ -6,14 +6,14 @@ description: A set of dashboard variants for the Solution Design and Development
 date: 2021-12-12
 eleventyNavigation:
   key: Dashboard Variants
-  parent: Studies
+  parent: Histories
 ---
 
 ## Case study
 
 The Academy Transfers service consists of a group of regions. Each region is a geographical location in England that handles communication and management of the transfer of an Academy. At the time this digital service is created, the data for these transfers are stored in a MS Dynamics CRM environment.
 
-After the initial [prototype](/studies/academy-transfers-prototype) was created, the time left for the project was used to create a set of variants for the dashboard.
+After the initial [prototype](/Histories/academy-transfers-prototype) was created, the time left for the project was used to create a set of variants for the dashboard.
 
 ## Hypothesis
 

@@ -20,6 +20,6 @@ And, I have to admit, it is only very recently that I have started doing this. R
 
 Wow! you have 'X' contributions last year, does that make you a better designer, developer. Is this another social status badge, forced by who?
 
-Moreover, since github was purchased by Microsoft, all sorts of terrible things chimed. Co-Pilot, what the hell. Everytime you make a commit, co-pilot copies, studies and analyses your code. Combine that with VS-Code and your children do not stand a chance following your footsteps.
+Moreover, since github was purchased by Microsoft, all sorts of terrible things chimed. Co-Pilot, what the hell. Everytime you make a commit, co-pilot copies, Histories and analyses your code. Combine that with VS-Code and your children do not stand a chance following your footsteps.
 
 Hey, I might be wrong. Who knows...

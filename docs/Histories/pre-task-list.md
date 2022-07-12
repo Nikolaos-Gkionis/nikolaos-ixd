@@ -6,7 +6,7 @@ description: A series of prototype screenshots, including summary page text deco
 date: 2022-05-20
 eleventyNavigation:
   key: Pre task-list
-  parent: Studies
+  parent: Histories
 aside:
   title: NCTS P5 prototype
   content: |
