@@ -3,7 +3,7 @@ layout: collection
 order: 1
 title: Design histories
 includeInBreadcrumbs: true
-description: Several design histories that I have been a contributor or completely implemented. Design histories are smaller than case Histories that provide a snapshot on a smaller part of a full service.
+description: Several design histories that I have been a contributor or completely implemented. Design histories are smaller than case studies that provide a snapshot on a smaller part of a full service.
 eleventyNavigation:
   key: Histories
 paginationHeading: Design Histories
