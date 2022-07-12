@@ -20,57 +20,57 @@ opinions:
     data:
       date: 2022-01-20
       title: Crime and punishment
-      description: A creation of a Figma library to quickly iterate ideas with little time cost.
+      description: Crime and Punishment follows the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who plans to kill an unscrupulous pawnbroker, an old woman who stores money and valuable objects in her flat.
   - url: "/opinions/design-hapiness"
     data:
       date: 2022-01-10
       title: Design hapiness
-      description: Adding a CMS on the 'design histories' 11ty app.
+      description: An article by Mark Wilson 10 minute read.
   - url: "/opinions/design-process-ux"
     data:
       date: 2021-12-05
       title: Design process UX
-      description: A 4 week cycle to build a vertical slice of small part of the service.
+      description: An article on the Stages of UX Design Process.
   - url: "/opinions/design-sprint"
     data:
       date: 2021-08-17
       title: Design sprint
-      description: Let providers track and update the status of offer conditions individually.
+      description: The Design Sprint is how smart teams start big projects. Invented at Google by Jake Knapp and perfected with more than 150 startups at GV (Google Ventures).
   - url: "/opinions/dont-make-me-think"
     data:
       date: 2021-06-03
       title: Don't make me think
-      description: Why we removed subject and location as filters
+      description: A Common Sense Approach to Web Usability (Voices That Matter).
   - url: "/opinions/github"
     data:
       date: 2022-02-20
       title: A Case against GitHub
-      description: A set of dashboard variants for the Solution Design and Development team.
+      description: A case against github.com, not the service; but the way we use it.
   - url: "/opinions/social-media"
     data:
       date: 2022-01-20
       title: Social Media
-      description: A creation of a Figma library to quickly iterate ideas with little time cost.
+      description: A case against the social media.
   - url: "/opinions/the-animal-farm"
     data:
       date: 2022-01-10
       title: The Animal Farm
-      description: Adding a CMS on the 'design histories' 11ty app.
+      description: An allegory, more relevant today than when originally published.
   - url: "/opinions/the-buddha"
     data:
       date: 2021-12-05
       title: The Buddha
-      description: A 4 week cycle to build a vertical slice of small part of the service.
+      description: Philosophize This! Episode number 9!
   - url: "/opinions/the-design-of-everyday-things"
     data:
       date: 2021-08-17
       title: The design of everyday things
-      description: Let providers track and update the status of offer conditions individually.
+      description: The only book you need to read before you start thinking about designing anything.
   - url: "/opinions/thoughts-on-design"
     data:
       date: 2021-06-03
       title: Thoughts on design
-      description: Why we removed subject and location as filters
+      description: One of the most important books ever written in graphic design.
 tags:
   - homepage
 ---

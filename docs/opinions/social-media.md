@@ -2,6 +2,7 @@
 layout: post
 date: 2021-12-05
 title: Social Media
+description: A case against the social media.
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: Change by design

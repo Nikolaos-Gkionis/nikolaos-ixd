@@ -2,6 +2,7 @@
 layout: post
 date: 2021-12-10
 title: Github
+description: A case against github.com, not the service; but the way we use it.
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: Change by design
