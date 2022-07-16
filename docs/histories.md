@@ -11,6 +11,11 @@ pagination:
   data: Histories
   size: 10
 Histories:
+  - url: "/histories/validation"
+    data:
+      date: 2022-07-15
+      title: Validation
+      description: Should prototypes have validation?
   - url: "/histories/macro-interactions"
     data:
       date: 2022-07-14
