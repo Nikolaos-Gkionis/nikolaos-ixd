@@ -11,11 +11,26 @@ pagination:
   data: Histories
   size: 10
 Histories:
-  - url: "/Histories/macro-interactions"
+  - url: "/histories/macro-interactions"
     data:
-      date: 2022-05-20
+      date: 2022-07-14
       title: Macro interactions
-      description: A series of different approaches to a single user problem
+      description: A series of different approaches to a single user problem.
+  - url: "/histories/house-consignments"
+    data:
+      date: 2022-07-07
+      title: House consignments
+      description: Exploring our riskiest assumption.
+  - url: "/histories/guarantee"
+    data:
+      date: 2022-07-01
+      title: Guarantee
+      description: One of our smallest sub-journeys with a lot of dependencies.
+  - url: "/histories/trader-details"
+    data:
+      date: 2022-06-30
+      title: Trader details
+      description: The new phase 5 trader details journey.
   - url: "/Histories/pre-task-list"
     data:
       date: 2022-05-20
