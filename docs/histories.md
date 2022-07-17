@@ -41,6 +41,11 @@ Histories:
       date: 2022-05-20
       title: Pre task list
       description: A series of prototype screenshots, including summary page text decoration variants.   ==part of NCTS5==
+  - url: "/Histories/the-model"
+    data:
+      date: 2022-04-12
+      title: The Model
+      description: A model of information dependencies and branching used as a guide to an accurate fully functional prototype.
   - url: "/Histories/map"
     data:
       date: 2022-04-12
